@@ -9,8 +9,7 @@ In general, we need to solve these two problems in Machine Learning:
 
 We can describe problems and their solutions using six characteristics, three of which characterize the problem and three of which characterize the solution:
 
-* **Problem class**: What is the nature of the training data and what kinds of queries will
-be made at testing time?
+* **Problem class**: What is the nature of the training data and what kinds of queries will be made at testing time?
 * **Assumptions**: What do we know about the source of the data or the form of the solution?
 * **Evaluation** criteria: What is the goal of the prediction or estimation system? How will the answers to individual queries be evaluated? How will the overall performance of the system be measured?
 * **Model type**: Will an intermediate model be made? What aspects of the data will be modeled? How will the model be used to make predictions?
