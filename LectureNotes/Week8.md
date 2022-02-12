@@ -15,7 +15,7 @@
 
 卷积神经网络有许多相关概念，都在 handout 里面进行了非常明晰的陈述，可以直接看
 
-看完这一部分之后我总算明白和理清了很多概念，尤其是什么是卷积这一问题。我接触到卷积其实比接触到卷积神经网络要早，信号的卷积局势信号在时域和频域上变换的过程，但是我就搞不懂了，卷积神经网络这卷积和频域的变换到底他妈有个什么关系？
+看完这一部分之后我总算明白和理清了很多概念，尤其是什么是卷积这一问题。我接触到卷积其实比接触到卷积神经网络要早，信号的卷积是信号在时域和频域上变换的过程，但是我就搞不懂了，卷积神经网络这卷积和频域的变换到底他妈有个什么关系？
 
 > If you are already familiar with what a convolution is, you might notice that this definition corresponds to what is often called a correlation and not to a convolution. Indeed, correlation and convolution refer to different operations in signal processing. However, in the neural networks literature, most libraries implement the correlation (as described in this chapter) but call it convolution. The distinction is not significant; in principle, if convolution is required to solve the problem, the network could learn the necessary weights. For a discussion of the difference between convolution and the conventions used in the literature you can read section 9.1 in this excellent book: https://www.deeplearningbook.org
 
